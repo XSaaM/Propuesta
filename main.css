@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+
+.container {
+    background-color:wheat;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+p{
+    font-size: xx-large;
+    padding: 10%;
+}
+button{
+    font-size: xx-large;
+    padding: 0.25em;
+
+}
+#yesbtn{
+    transform: translate(-100%, 0);
+
+}
+#noubtn{
+    position: absolute;
+
+}
